@@ -687,6 +687,10 @@ button {
     width: 20%;
     float: left;
 }
+.icon_6 {
+    width: 20%;
+    float: right;
+}
 
 .diabetes_text {
     width: 70%;
