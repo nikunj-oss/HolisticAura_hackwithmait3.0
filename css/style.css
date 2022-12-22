@@ -534,7 +534,7 @@ button {
 .knowledge_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 60px;
     color: #ffffff;
     font-weight: bold;
 }
@@ -542,9 +542,10 @@ button {
 .knowledge_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     margin: 0px;
+    font-weight: bold;
 }
 
 .play_icon {
