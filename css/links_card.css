@@ -22,6 +22,10 @@ body {
 	place-content: center;
 } */
 /* ======================== */
+
+.test{
+  place content: center;
+}
 .card {
 	width: 500px;
 	height: 500px;
