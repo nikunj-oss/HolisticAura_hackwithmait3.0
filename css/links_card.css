@@ -24,7 +24,7 @@ body {
 /* ======================== */
 
 .test{
-  place-content: center;
+  left: 50%;
 }
 .card {
 	width: 500px;
