@@ -24,7 +24,7 @@ body {
 /* ======================== */
 
 .test{
-  left: 50%;
+  margin:auto;
 }
 .card {
 	width: 500px;
